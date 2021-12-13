@@ -16,8 +16,10 @@ fields:
   type: textarea
   default: ''
   config:
-    required: false
-    wysiwyg: false
+    required: true
+    wysiwyg: true
     schema:
       format: markdown
   label: Page Content
+pages:
+- content/introduction.md

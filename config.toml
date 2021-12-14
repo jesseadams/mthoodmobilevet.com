@@ -9,10 +9,6 @@ paginate = "5"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 
-############################# output ##############################
-[outputs]
-home = [ "HTML", "RSS", "json"]
-
 # render unsafe html
 [markup.goldmark.renderer]
 unsafe = true

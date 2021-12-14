@@ -9,9 +9,10 @@ sections:
   label: Landing Graphic
 - type: directory
   path: content/homepage
-  label: Pages
+  label: Sections
   create: all
   match: "*"
+  exclude: index.md
 upload_dir: static/images
 public_path: "/images"
 front_matter_path: ''

@@ -7,7 +7,6 @@ sections:
 - type: document
   path: content/_index.md
   label: Landing Graphic
-  match: "**/*"
 - type: directory
   path: content/homepage
   label: Pages

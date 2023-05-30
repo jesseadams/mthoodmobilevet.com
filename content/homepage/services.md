@@ -18,6 +18,6 @@ header_menu: true
 
 ## Cremation Services
 
-We work with Dignified Pet Services for communal and private cremations.
+We work with Family Animal Services for private and communal cremations.
 
-Dignified Pet Services: 4835 Northeast Pacific Street, Portland, OR 97213/503-885-2211/[https://dignifiedpetservices.com/](https://dignifiedpetservices.com/ "https://dignifiedpetservices.com/")
+Family Animal Services: 17819 NE Riverside Parkway, Suite B, Portland, OR 97230/503-665-8300/[http://www.familyanimalservices.org/](http://www.familyanimalservices.org/ "http://www.familyanimalservices.org/")

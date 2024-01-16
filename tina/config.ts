@@ -66,6 +66,24 @@ export default defineConfig({
         },
         fields: [
           {
+            name: "title",
+            type: "string",
+            label: "Title",
+            description: "The title of the section"
+          },
+          {
+            name: "weight",
+            type: "number",
+            label: "Weight",
+            description: "The order on the page"
+          },
+          {
+            name: "header_menu",
+            type: "boolean",
+            label: "Show in Menu?",
+            description: "Should the section show up in the menu?"
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body of Document",

@@ -6,6 +6,10 @@ on:
       - main  # Set a branch to deploy
   pull_request:
 
+env:
+  NEXT_PUBLIC_TINA_CLIENT_ID: ${{ vars.NEXT_PUBLIC_TINA_CLIENT_ID }}
+  TINA_TOKEN: ${{ vars.TINA_TOKEN }}
+
 jobs:
   deploy:
     runs-on: ubuntu-20.04

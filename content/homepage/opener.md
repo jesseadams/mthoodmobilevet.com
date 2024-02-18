@@ -1,8 +1,8 @@
 ---
 title: Welcome
-weight: "1"
-
+weight: 1
 ---
+
 ![](/images/mt-hood-mobile-clinic-small.jpg)
 
 These past two years have been an unforgettable time in which I felt that I was able to whole heartedly serve those in the Clackamas and Multnomah County communities in a way that I could have never done in a traditional clinic facility. I realize that while the mobile practice held several limitations (no radiography, boarding or hospitalization), it allowed me to function on an even more personal level with many for which I am most grateful. A hearty THANK YOU for having enough faith to take a chance in our services.

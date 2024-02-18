@@ -1,9 +1,9 @@
 ---
 title: Services
-weight: "2"
+weight: 2.1
 header_menu: true
-
 ---
+
 ## In Home Euthanasia
 
 **It is important to us to allow for your pet’s last moments to be in his/her home, surrounded by family without the fear, pain and/or confusion commonly associated with having to be loaded and driven to a veterinary facility.**

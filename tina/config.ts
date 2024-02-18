@@ -75,7 +75,7 @@ export default defineConfig({
             name: "weight",
             type: "number",
             label: "Weight",
-            description: "The order on the page"
+            description: "The order on the page",
             ui: {
               parse: (val) => parseFloat(val),
               format: (val) => (val ? parseFloat(val) : "0.0") 

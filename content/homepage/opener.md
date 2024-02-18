@@ -1,6 +1,6 @@
 ---
 title: Welcome
-weight: 0
+weight: -2
 ---
 
 ![](/images/mt-hood-mobile-clinic-small.jpg)

@@ -1,6 +1,6 @@
 ---
 title: Services
-weight: -0.9
+weight: 2
 header_menu: true
 ---
 

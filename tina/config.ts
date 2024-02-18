@@ -78,7 +78,7 @@ export default defineConfig({
             description: "The order on the page",
             ui: {
               parse: (val) => parseFloat(val),
-              format: (val) => (Number.isInteger(val) ? val + ".0" : val.toString()) 
+              format: (val) => parseFloat(val)
             }
           },
           {

@@ -1,6 +1,6 @@
 ---
 title: Welcome
-weight: "1"
+weight: 0
 ---
 
 ![](/images/mt-hood-mobile-clinic-small.jpg)
@@ -19,4 +19,4 @@ Please accept my heartfelt thanks for the many times you placed your trust in me
 
 With my kindest regards,
 
-Melissa A. Adams, D.V.M.
+Melissa A. Adams, D.V.M. 

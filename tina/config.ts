@@ -73,9 +73,12 @@ export default defineConfig({
           },
           {
             name: "weight",
-            type: "string",
+            type: "number",
             label: "Weight",
             description: "The order on the page"
+            ui: {
+              parse: (val) => parseFloat(val)
+              format: (val) => (val ? parseFloat(val) : "0.0") 
           },
           {
             name: "header_menu",

@@ -18,6 +18,6 @@ header_menu: true
 
 ## Cremation Services
 
-We work with Family Animal Services for private and communal cremations.
+We work with Family Animal Services for private and communal cremations. Clay pawprint impressions, hair clippings and/or ink prints are available upon request.
 
 Family Animal Services: 17819 NE Riverside Parkway, Suite B, Portland, OR 97230/503-665-8300/[http://www.familyanimalservices.org/](http://www.familyanimalservices.org/ "http://www.familyanimalservices.org/")

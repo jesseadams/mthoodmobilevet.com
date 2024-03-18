@@ -7,7 +7,7 @@ weight: 1
 
 My years as a mobile veterinarian have been an unforgettable time in which I have felt that I was able to whole heartedly serve those in my community in a way that I could have never done in a traditional clinic facility. I realize that while the mobile practice held several limitations (no radiography, boarding or hospitalization), it allowed me to function on an even more personal level with many for which I am most grateful. A hearty THANK YOU for having enough faith to take a chance in our services over the years.
 
-In 2018, I was offered a position where I could help the needful stray dogs brought in to the local municipal shelter for care and safety, as well as being provided some much desired support from animal health colleagues. At that time, Mt. Hood Mobile Veterinary Clinic was formally reorganized to make in-home euthanasia and transportation for cremation services the priority.  
+In 2018, I was offered a position where I could help the needful stray dogs brought in to the local municipal shelter for care and safety, as well as being provided some much desired support from animal health colleagues. At that time, Mt. Hood Mobile Veterinary Clinic was formally reorganized to make IN-HOME EUTHANASIA and TRANSPORTATION FOR CREMATION SERVICES the priority.  
 
 It has always been a priority to me that a pet’s last moments can be in his/her home, surrounded by family without the fear, pain and/or confusion commonly associated with having to be loaded and driven to a veterinary facility. It is also an extremely tough time for the family and having the ability to grieve in one’s own space is monumental. 
 

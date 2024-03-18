@@ -5,7 +5,7 @@ weight: 1
 
 ![](/images/mt-hood-mobile-clinic-small.jpg)
 
-My years as a mobile veterinarian have been an unforgettable time in which I have felt that I was able to whole heartedly serve those in my community in a way that I could have never done in a traditional clinic facility. I realize that while the mobile practice held several limitations (no radiography, boarding or hospitalization), it allowedme to function on an even more personal level with many for which I am most grateful. A hearty THANK YOU for having enough faith to take a chance in our services over the years. 
+My years as a mobile veterinarian have been an unforgettable time in which I have felt that I was able to whole heartedly serve those in my community in a way that I could have never done in a traditional clinic facility. I realize that while the mobile practice held several limitations (no radiography, boarding or hospitalization), it allowed me to function on an even more personal level with many for which I am most grateful. A hearty THANK YOU for having enough faith to take a chance in our services over the years. 
 
 When I was offered a position in 2018 where I could help serve the underprivileged and wanting stray dogs brought in to the local municipal shelter for care and safety, as well as being provide some much desired support from animal health colleagues, Mt. Hood Mobile Veterinary Clinic was formally reorganized to offer in-home euthanasia and transportation for cremation services.  
 

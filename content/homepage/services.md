@@ -10,7 +10,7 @@ header_menu: true
 
 **We are capable of making arrangements for cremation services and transportation to the facility for ease to the owner. Please do not hesitate to reach out for information regarding these services.**
 
-**Serving all of Clark County and certain areas of Clackamas and Multnomah Counties.**
+#### **Serving all of Clark County and certain areas of Clackamas and Multnomah Counties.**
 
 ![](/images/evie_louie.jpg)
 

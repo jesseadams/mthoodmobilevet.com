@@ -4,7 +4,7 @@ weight: 4
 header_menu: true
 ---
 
-{{<icon class="fa fa-envelope">}} [https://www.facebook.com/mthoodmobilevet](https://www.facebook.com/mthoodmobilevet)
+{{<icon class="fa fa-facebook">}} [https://www.facebook.com/mthoodmobilevet](https://www.facebook.com/mthoodmobilevet)
 
 {{<icon class="fa fa-envelope">}} [mt.hoodmobilevet@gmail.com](mailto:mt.hoodmobilevet@gmail.com)
 
